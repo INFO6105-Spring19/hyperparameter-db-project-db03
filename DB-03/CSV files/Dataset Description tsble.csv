@@ -1,0 +1,12 @@
+ID - PK,ID - FK,Column Name,Column Type,target 
+DC1,D1,Age,INT,0
+DC2,D1,Gender,VARCHAR,0
+DC3,D1,Total_Bilirubin,FLOAT,0
+DC4,D1,Direct_Bilirubin,FLOAT,0
+DC5,D1,Alkaline_Phosphotase,FLOAT,0
+DC6,D1,Alamine_Aminotransferase,FLOAT,0
+DC7,D1,Aspartate_Aminotransferase,FLOAT,0
+DC8,D1,Total_Protiens,FLOAT,0
+DC9,D1,Albumin,FLOAT,0
+DC10,D1,Albumin_and_Globulin_Ratio,FLOAT,0
+DC11,D1,Dataset,INT,1

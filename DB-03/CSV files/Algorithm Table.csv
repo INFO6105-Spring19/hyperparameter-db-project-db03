@@ -1,0 +1,8 @@
+﻿algo_id,"	algo_name"
+A1,Generalized Linear Model GLM
+A2,"	Gradient Boosting Machine GBM"
+A3,"	Distributed Random Forest DRF"
+A4,"	Naïve Bayes Classifier "
+A5,"	Xgboost"
+A6,Stacked Ensemble
+A7,Others

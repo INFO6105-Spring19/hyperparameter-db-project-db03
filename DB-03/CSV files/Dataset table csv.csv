@@ -1,0 +1,2 @@
+﻿ID,Dataset Name,Source,Data Type,Sector,Classification_Regression ,Total Column ,Total Rows
+D1,Indian Patient liver records,https://www.kaggle.com/uciml/indian-liver-patient-records,CSV,Healtcare,Classification,11,583
